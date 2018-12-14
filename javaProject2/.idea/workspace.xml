@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f4c2428-353b-49a9-bf43-bdba5c6739fa" name="Default Changelist" comment="" />
+    <list default="true" id="2f4c2428-353b-49a9-bf43-bdba5c6739fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaProject3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/checkHit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/dataDots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/inputN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/out/production/javaProject3/com/company/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject4/out/production/javaProject4/com/company/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProject4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaProject4/src/com/company/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +63,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-387943841">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2084" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2084" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="labaProject2" />
@@ -52,19 +106,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1383">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="354">
+              <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
               <folding>
-                <element signature="e#2504#2505#0" expanded="true" />
-                <element signature="e#2528#2529#0" expanded="true" />
-                <element signature="e#2575#2576#0" expanded="true" />
-                <element signature="e#2600#2601#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <marker date="1543579125778" expanded="true" signature="987:1278" ph="..." />
+                <marker date="1543579125778" expanded="true" signature="1913:2632" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,9 +136,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="357" />
-    <option name="y" value="52" />
-    <option name="width" value="1034" />
+    <option name="x" value="645" />
+    <option name="width" value="1285" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -105,45 +160,43 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="labaProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="labaProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="javaProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="labaProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="labaProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="javaProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="labaProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="labaProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="javaProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="labaProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541860104769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543486026185" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaProject3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,7 +254,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50528544" side_tool="true" weight="0.25302014" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4947146" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4947146" visible="true" weight="0.17449665" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -209,13 +262,12 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32765958" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -224,6 +276,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,15 +293,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="945" column="24" lean-forward="true" selection-start-line="945" selection-start-column="24" selection-end-line="945" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1383">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="354">
+          <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
           <folding>
-            <element signature="e#2504#2505#0" expanded="true" />
-            <element signature="e#2528#2529#0" expanded="true" />
-            <element signature="e#2575#2576#0" expanded="true" />
-            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <marker date="1543579125778" expanded="true" signature="987:1278" ph="..." />
+            <marker date="1543579125778" expanded="true" signature="1913:2632" ph="..." />
           </folding>
         </state>
       </provider>
